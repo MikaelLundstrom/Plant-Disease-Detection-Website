@@ -20,6 +20,7 @@ Web-based Plant Disease classifier written in Pytorch.
 ├── README.md
 └── test
 
+
 ### app/
 
 This is the directory related to the backend and frontend
